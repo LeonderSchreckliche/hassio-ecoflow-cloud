@@ -13,7 +13,7 @@ from ..devices import DiagnosticDevice, EcoflowDeviceInfo
 
 _LOGGER = logging.getLogger(__name__)
 
-BASE_URI = "https://api-a.ecoflow.com/iot-open/sign"
+BASE_URI = "https://api-e.ecoflow.com/iot-open/sign"
 
 
 # from FB
